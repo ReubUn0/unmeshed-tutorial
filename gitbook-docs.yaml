@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Workflow Orchestration Open Tutorial
+  structure:
+    - type: space
+      key: tutorial
+      title: Workflow Orchestration Open Tutorial
+      path: /
+      content:
+        directory: ./
